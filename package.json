@@ -1,5 +1,8 @@
 {
-  "name": "react-admin",
+  "name": "admin-dashboard",
+  "homepage": "https:/Mr-Perfectuz.github.io/react-admin",
+  "description": "Admin Dashboard",
+  "author": "Anvarbek",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,10 +10,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^12.7.3",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.488.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
