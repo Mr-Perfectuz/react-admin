@@ -4,7 +4,7 @@ import Header from "../components/common/Header";
 import StatCard from "../components/common/StatCard";
 import { CreditCard, DollarSign, ShoppingCart, TrendingUp } from "lucide-react";
 import SalesByCategoryChart from "../components/sales/SalesByCategoryChart";
-import { DailySalesTrend } from "../components/sales/DailySalesTrend";
+import DailySalesTrend from "../components/sales/DailySalesTrend";
 import SalesOverviewChart from "../components/sales/SalesOverviewChart";
 
 const salesStats = {
