@@ -1,18 +1,15 @@
 {
-  "name": "react-admin",
+  "name": "admin-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mr-perfectuz.github.io/react-admin",
   "description": "Admin Dashboard",
   "author": "Anvarbek",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "git checkout main && git pull && npm run build && gh-pages -d dist && git checkout -"
+    "preview": "vite preview"
   },
   "dependencies": {
     "framer-motion": "^12.7.3",
