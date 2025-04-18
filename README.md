@@ -1,12 +1,116 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌩️ Admin Dashboard UI Kit
 
-Currently, two official plugins are available:
+<p align="center">
+    <a href="">
+        <img src="public/image1.png" alt="OverviewPage">
+        <img src="public/image2.png" alt="ProductPage">
+        <img src="public/image3.png" alt="UsersPage">
+        <img src="public/image4.png" alt="SalesPage">
+        <img src="public/image5.png" alt="OrdersPage">
+        <img src="public/image6.png" alt="AnalyticsPage">
+        <img src="public/image7.png" alt="SettingsPage">
+        <img src="public/image8.png" alt="SettingsPage">
+        <img src="public/image9.png" alt="SettingsPage">
+        <img src="public/image10.png" alt="SettingsPage">
+        <img src="public/image11.png" alt="SettingsPage">
+    </a>    
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+An admin dashboard template built with the latest front-end technologies. Perfectly suited for any kind of **web application**, whether you're developing an internal tool, SaaS product, or analytics platform.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+This project is built with a modern, high-performance tech stack:
+
+- ⚛️ **React 19** – For building reactive, component-based UIs  
+- 💨 **Tailwind CSS** – Utility-first CSS framework for fast and clean styling  
+- 📈 **Recharts** – Rich and composable charting library for visualizing data  
+- 🎞️ **Framer Motion** – High-performance animations and micro-interactions  
+- 🔀 **React Router v7** – Client-side routing for seamless navigation  
+- ✨ **Lucide Icons** – Clean and customizable icon library  
+
+---
+
+## 🎯 Features
+
+- 📱 **Fully Responsive** – Works perfectly on desktop, tablet, and mobile devices  
+- 📈 **Interactive Charts** – Visualize data with elegant bar, line, pie charts, and more  
+- 🧱 **Animated Navigation** – Smooth page transitions with Framer Motion  
+- 🎨 **Clean UI** – Minimal, modern, and professional design  
+- 🔧 **Well-structured Codebase** – Built with scalability and maintainability in mind
+
+---
+
+## 📁 Project Structure
+
+```
+admin-dashboard/
+├── public/
+├── src/
+│   ├── assets/         # Static images and icons
+│   ├── components/     # Reusable UI components
+│   ├── layout/         # Sidebar, navbar, and overall layout
+│   ├── pages/          # Dashboard, reports, and other views
+│   ├── routes/         # App routes using react-router
+│   ├── styles/         # Tailwind CSS configuration and custom styles
+│   └── main.jsx        # App entry point
+├── tailwind.config.js
+├── vite.config.js
+└── package.json
+```
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Mr-Perfectuz/react-admin.git
+cd react-admin
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run in development mode
+
+```bash
+npm run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
+### 5. Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+
+## 👨‍💼 Author
+
+Made with ❤️ by [Anvarbek](https://github.com/Mr-Perfectuz)
+
+---
+
+## 📜 License
+
+This project is open-source and free to use under the MIT License.
+
+---
+
+
