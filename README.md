@@ -1,4 +1,22 @@
+
 # 🌩️ Admin Dashboard UI Kit
+
+<p align="center">
+    <a href="">
+        <img src="public/image1.png" alt="OverviewPage">
+        <img src="public/image2.png" alt="ProductPage">
+        <img src="public/image3.png" alt="UsersPage">
+        <img src="public/image4.png" alt="SalesPage">
+        <img src="public/image5.png" alt="OrdersPage">
+        <img src="public/image6.png" alt="AnalyticsPage">
+        <img src="public/image7.png" alt="SettingsPage">
+        <img src="public/image8.png" alt="SettingsPage">
+        <img src="public/image9.png" alt="SettingsPage">
+        <img src="public/image10.png" alt="SettingsPage">
+        <img src="public/image11.png" alt="SettingsPage">
+    </a>    
+</p>
+
 
 An admin dashboard template built with the latest front-end technologies. Perfectly suited for any kind of **web application**, whether you're developing an internal tool, SaaS product, or analytics platform.
 
@@ -52,8 +70,8 @@ admin-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/admin-dashboard.git
-cd admin-dashboard
+git clone https://github.com/Mr-Perfectuz/react-admin.git
+cd react-admin
 ```
 
 ### 2. Install dependencies
@@ -82,33 +100,10 @@ npm run preview
 
 ---
 
-## 📦 Deployment
-
-This project is ready for deployment using GitHub Pages:
-
-```bash
-npm run build
-npx gh-pages -d dist
-```
-
-Make sure your `vite.config.js` is configured with the correct base path if deploying to GitHub Pages:
-
-```js
-// vite.config.js
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-
-export default defineConfig({
-  base: '/your-repo-name/', // Replace with your actual repo name
-  plugins: [react()],
-});
-```
-
----
 
 ## 👨‍💼 Author
 
-Made with ❤️ by [Anvarbek](https://github.com/your-username)
+Made with ❤️ by [Anvarbek](https://github.com/Mr-Perfectuz)
 
 ---
 
@@ -118,11 +113,4 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 📸 Screenshots (optional)
-
-> *(You can add screenshots here to showcase the UI. Example:)*
-
-![Dashboard Preview](./screenshots/dashboard-preview.png)
-
----
 
