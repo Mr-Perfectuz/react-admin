@@ -1,9 +1,8 @@
 {
-  "name": "react-admin",
+  "name": "admin-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mr-perfectuz.github.io/react-admin",
   "description": "Admin Dashboard",
   "author": "Anvarbek",
   "scripts": {
