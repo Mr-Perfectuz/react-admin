@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { OverviewPage } from "./pages/OverviewPage";
+import OverviewPage from "./pages/OverviewPage";
 import ProductPage from "./pages/ProductPage";
 import { Sidebar } from "./components/common/Sidebar";
 function App() {

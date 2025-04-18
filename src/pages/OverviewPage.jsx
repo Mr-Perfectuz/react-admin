@@ -47,10 +47,9 @@ const OverviewPage = () => {
         </motion.div>
 
         {/* CHARTS */}
+
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <div className="lg:col-span-2">
-            <SalesOverviewChart />
-          </div>
+          <SalesOverviewChart />
           <CategoryDistributionChart />
           <SalesChannelChart />
         </div>
@@ -58,5 +57,4 @@ const OverviewPage = () => {
     </div>
   );
 };
-
-export { OverviewPage };
+export default OverviewPage;
