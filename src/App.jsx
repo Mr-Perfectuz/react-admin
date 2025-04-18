@@ -3,6 +3,7 @@ import OverviewPage from "./pages/OverviewPage";
 import ProductPage from "./pages/ProductPage";
 import { Sidebar } from "./components/common/Sidebar";
 import UsersPage from "./pages/UsersPage";
+import SalesPage from "./pages/SalesPage";
 function App() {
   return (
     <div className="flex h-screen bg-gray-900 text-gray-100 overflow-hidden">
@@ -16,6 +17,7 @@ function App() {
         <Route path="/" element={<OverviewPage />} />
         <Route path="/products" element={<ProductPage />} />
         <Route path="/users" element={<UsersPage />} />
+        <Route path="/sales" element={<SalesPage />} />
       </Routes>
     </div>
   );
