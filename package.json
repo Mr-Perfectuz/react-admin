@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mr-Perfectuz.github.io/dashboard",
+  "homepage": "https://Mr-Perfectuz.github.io/react-admin",
   "description": "Admin Dashboard",
   "author": "Anvarbek",
   "scripts": {
