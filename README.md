@@ -6,7 +6,6 @@
         <img src="public/image1.png" alt="OverviewPage">
         <img src="public/image2.png" alt="ProductPage">
         <img src="public/image3.png" alt="UsersPage">
-        <img src="public/image4.png" alt="SalesPage">
         <img src="public/image5.png" alt="OrdersPage">
         <img src="public/image6.png" alt="AnalyticsPage">
         <img src="public/image7.png" alt="SettingsPage">
